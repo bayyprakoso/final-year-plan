@@ -3,7 +3,10 @@ RENCANA BELAJAR BAYU
 - Coding
   * Stata
   * R
+    ^ Phyton
 - Mengajar Matematika
 - Analysis
+  * Applied
 - Istirahat
 - Ambis
+- Ibadah
