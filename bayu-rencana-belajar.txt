@@ -1,6 +1,8 @@
 RENCANA BELAJAR BAYU
 
 - Coding
+  * Stata
+  * R
 - Analysis
 - Istirahat
 - Ambis
