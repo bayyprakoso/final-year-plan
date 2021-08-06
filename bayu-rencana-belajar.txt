@@ -3,7 +3,10 @@ RENCANA BELAJAR BAYU
 - Coding
   * Stata
   * R
+    ^ Logical
+    ^ Regresi
 - Mengajar Matematika
 - Analysis
+  ^ Terapan
 - Istirahat
 - Ambis
